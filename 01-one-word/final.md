@@ -5,6 +5,8 @@
 - [Final version](final.md)
 
 
+![alt text](https://github.com/stolgeth/english-for-designers/01-one-word/Homework_image.png?raw=true)
+
 ## Final version
 
 # Homework: A Tug-of-War of Feelings
