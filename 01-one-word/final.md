@@ -5,7 +5,7 @@
 - [Final version](final.md)
 
 
-![alt text](https://github.com/stolgeth/english-for-designers/01-one-word/Homework_image.png?raw=true)
+![alt text](Homework_image.png)
 
 ## Final version
 
