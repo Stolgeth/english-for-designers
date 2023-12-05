@@ -1,3 +1,6 @@
+# Hi! I am Tomáš Trlíček your Dis.Grafik 
+## (You were born with it, I studied to get here!) 
+
 # About me
 
 **As a Creative director with more than seven years of experience in visual arts,** my true passion lies in crafting visual identities. I hold a firm belief that the **visual identity forms the essence of a brand**. This belief drives my commitment to both the creation of branding and its marketing evolution.
@@ -36,6 +39,23 @@ I adhere to the Bauhaus principle that **form follows function**, upholding that
 - and so much more...
 
 # My projects: 
+
+## HUGDAY 2023
+
+A revival year of Hug Day, an international hugging event! (It was difficult to hug while keeping 2m distance) 
+
+- Logo
+- Webdesign (https://www.hugday.sk)
+- Visual identity
+- Branding
+- Marketing
+- Organizing
+- Cooperation
+
+![Page 12](https://github.com/Stolgeth/english-for-designers/assets/133216768/ab6adee4-123f-4df8-a3e9-50e8ac731ba9)
+![Page 15](https://github.com/Stolgeth/english-for-designers/assets/133216768/4c770dbe-1403-4063-96e7-900803dddc19)
+![Page 13](https://github.com/Stolgeth/english-for-designers/assets/133216768/0048401d-9f81-4e0d-b4ff-2eb7df9ae6d9)
+![Page 17](https://github.com/Stolgeth/english-for-designers/assets/133216768/04176c3e-3f12-47e9-b93e-4ca6caaa228a)
 
 ## Špindl
 
@@ -85,6 +105,9 @@ Just, the right logo for the most just part of the government
 ![Artboard1_12](https://github.com/Stolgeth/english-for-designers/assets/133216768/93977f02-22f4-4fda-b998-587dca9b32db)
 
 # BlitzWORK
+
+## Custom typeface for Tidal logo uplifting
+![Artboard1_5](https://github.com/Stolgeth/english-for-designers/assets/133216768/c2640610-33a6-41d3-ac37-db65dab3fce3)
 
 ## Packaging for MADCATZ
 ![Artboard1_4](https://github.com/Stolgeth/english-for-designers/assets/133216768/15e44f64-07ae-4629-b50f-743d8743cff2)
