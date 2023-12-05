@@ -46,8 +46,8 @@ Visual identity connected to the people.
 - Navigation system
 - Necesary printed media
 
-![Artboard1_6](https://github.com/Stolgeth/english-for-designers/assets/133216768/12098542-53f9-485b-9458-4690894ed530)
 ![Artboard1_7](https://github.com/Stolgeth/english-for-designers/assets/133216768/0b144737-2c9e-4702-b7c5-e8d8917bc9d8)
+![Artboard1_6](https://github.com/Stolgeth/english-for-designers/assets/133216768/12098542-53f9-485b-9458-4690894ed530)
 
 ## Kutná Hora
 
@@ -81,9 +81,8 @@ Just, the right logo for the most just part of the government
 - Working
 - Visual presentations
 
-![Artboard1_12](https://github.com/Stolgeth/english-for-designers/assets/133216768/93977f02-22f4-4fda-b998-587dca9b32db)
-
 ![Artboard1_13](https://github.com/Stolgeth/english-for-designers/assets/133216768/779f6347-7bb4-462b-a4a5-0c64abde0e37)
+![Artboard1_12](https://github.com/Stolgeth/english-for-designers/assets/133216768/93977f02-22f4-4fda-b998-587dca9b32db)
 
 # BlitzWORK
 
