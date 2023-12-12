@@ -1,6 +1,6 @@
 [back](https://stolgeth.github.io/english-for-designers/03-content-first/Index.html)
 
-# Hi! I am Tomáš Trlíček your DiS.Grafik
+## Hi! I am Tomáš Trlíček your DiS.Grafik
 ### (You were born with it, I studied to get here!)
 
 ![Profile Pircture](https://github.com/Stolgeth/english-for-designers/assets/133216768/28e6038b-529e-428e-9811-f4db8209a9e9)
