@@ -1,6 +1,6 @@
 [back](https://stolgeth.github.io/english-for-designers/03-content-first/Index.html)
 
-## Hi! I am Tomáš Trlíček your DiS.Grafik
+# Hi! I am Tomáš Trlíček your DiS.Grafik
 ### (You were born with it, I studied to get here!)
 
 ![Profile Pircture](https://github.com/Stolgeth/english-for-designers/assets/133216768/28e6038b-529e-428e-9811-f4db8209a9e9)
@@ -49,12 +49,9 @@ My first big "job" was in 2018. I volunteered on a project called Hug Day about 
 
 Now, I've been doing this as a job for over 7 years and playing with design stuff for 10 years. It's been an amazing ride!
 
-(This is the picture)
-
+(This is the 10 years old picture, still have the .psd file, I keep backups of everything, so your project is safe with me) 
 ![Untitled7](https://github.com/Stolgeth/english-for-designers/assets/133216768/b8baad75-08e5-40d0-b256-5c5458feb457)
 
----
----
 ---
 
 # My projects: 
