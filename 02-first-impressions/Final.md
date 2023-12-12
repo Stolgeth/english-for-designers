@@ -3,6 +3,9 @@
 # Hi! I am Tomáš Trlíček your Dis.Grafik
 ### (You were born with it, I studied to get here!)
 
+![Profile Pircture](https://github.com/Stolgeth/english-for-designers/assets/133216768/28e6038b-529e-428e-9811-f4db8209a9e9)
+
+
 ## About me
 
 **As a Creative Director with more than seven years of experience in visual arts,** my true passion lies in crafting visual identities. I hold a firm belief that the **visual identity forms the essence of a brand**. This belief drives my commitment to both the creation of branding and its marketing evolution.
