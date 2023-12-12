@@ -51,7 +51,7 @@ Now, I've been doing this as a job for over 7 years and playing with design stuf
 
 # My projects: 
 
-## HUGDAY 2023
+# HUGDAY 2023
 
 A revival year of Hug Day, an international hugging event! 
 *(It was difficult to hug while keeping 2m distance)*
@@ -67,7 +67,7 @@ This is my final thesis and how I earned my DIS. title. I had to design this ent
 
 --- 
 
-## Špindleruv Mlýn
+# Špindleruv Mlýn
 
 Visual identity connected to the people.
 *(My personal PTSD project)*
@@ -83,7 +83,7 @@ For this project, me and my team had to create a visual identity for a small yet
 
 --- 
 
-## Kutná Hora
+# Kutná Hora
 
 Design that makes the entire place resonate with music. 
 *(Too good for the client, just good enough for 2nd place)*
@@ -99,7 +99,7 @@ I was trying to visualize music festival with great history. The Kutná Hore Mus
 
 --- 
 
-## UN1VERS0
+# UN1VERS0
 
 Products and goods that are shared in real and virtual meta-universe
 *(I made this 1 week before deadline in about 6 hours and somehow it ended up as my crowning project of 2nd year in school)*
@@ -115,7 +115,7 @@ For this project, the task was to imagine a fashion brand of the future, therefo
 
 --- 
 
-## Ministry of Justice
+# Ministry of Justice
 
 Just, the right logo for the most just part of the government.
 *(The competition was cancelled, but I am confident I had it!)*
@@ -128,15 +128,3 @@ For this project, I tried to overdeliver on the logo. Not only to create a symbo
 
 ![Artboard1_13](https://github.com/Stolgeth/english-for-designers/assets/133216768/779f6347-7bb4-462b-a4a5-0c64abde0e37)
 ![Artboard1_12](https://github.com/Stolgeth/english-for-designers/assets/133216768/93977f02-22f4-4fda-b998-587dca9b32db)
-
-# Worth the mention
-
---- 
-
-## Custom typeface for Tidal logo uplifting
-![Artboard1_5](https://github.com/Stolgeth/english-for-designers/assets/133216768/c2640610-33a6-41d3-ac37-db65dab3fce3)
-
---- 
-
-## Packaging for MADCATZ
-![Artboard1_4](https://github.com/Stolgeth/english-for-designers/assets/133216768/15e44f64-07ae-4629-b50f-743d8743cff2)
