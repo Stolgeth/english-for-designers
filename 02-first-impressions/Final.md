@@ -49,6 +49,14 @@ My first big "job" was in 2018. I volunteered on a project called Hug Day about 
 
 Now, I've been doing this as a job for over 7 years and playing with design stuff for 10 years. It's been an amazing ride!
 
+(This is the picture)
+
+![Untitled7](https://github.com/Stolgeth/english-for-designers/assets/133216768/b8baad75-08e5-40d0-b256-5c5458feb457)
+
+---
+---
+---
+
 # My projects: 
 
 ## HUGDAY 2023
