@@ -131,5 +131,4 @@ For this project, I tried to overdeliver on the logo. Not only to create a symbo
 
 
 ### If you got this far, my projects probably interested you. So, maybe you want to get in contact with me over here: 
-[LinkedIn](https://www.linkedin.com/in/trlicek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[Instagram](https://instagram.com/tomas.trl?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
+[LinkedIn](https://www.linkedin.com/in/trlicek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) -- [Instagram](https://instagram.com/tomas.trl?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
