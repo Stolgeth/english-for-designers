@@ -1,6 +1,6 @@
 [back](https://stolgeth.github.io/english-for-designers/03-content-first/Index.html)
 
-# Hi! I am Tomáš Trlíček your Dis.Grafik
+# Hi! I am Tomáš Trlíček your DiS.Grafik
 ### (You were born with it, I studied to get here!)
 
 ![Profile Pircture](https://github.com/Stolgeth/english-for-designers/assets/133216768/28e6038b-529e-428e-9811-f4db8209a9e9)
@@ -43,21 +43,21 @@ I adhere to the Bauhaus principle that **form follows function**, upholding that
 - And of course, friends and family
 
 ### My origin story: 
-When I was about 13 or 14, I began my journey. I wanted to make a cool place for gamers to hang out, but we needed a profile picture to show who we are. Later I found out those are logos. People usually pay for that, but I had no money, so I decided to make it myself. I had a blast and made something really cool, and that's how I started with graphic designer. I still use that picture for my Discord group to this day!
+When I was about 13 or 14, I began my journey. I wanted to make a cool place for my gamer friends to hang out, but **we needed a profile picture** to show who we are. Later I found out those are logos. People usually pay for that, but I had no money, so **I decided to make it myself.** I had a blast and made something really cool, and that's how I started with graphic designer. I still use that picture for my Discord group to this day!
 
-My first big "job" was in 2018. I volunteered on a project about people from all over the world giving hugs to bring back physical contact. It was awesome to see my work go global and to realize I could change things with my designs.
+My first big "job" was in 2018. I volunteered on a project called Hug Day about people from all over the world giving hugs to bring back physical contact. **It was awesome to see my work go global and to realize I could change things with my designs.**
 
 Now, I've been doing this as a job for over 7 years and playing with design stuff for 10 years. It's been an amazing ride!
 
 # My projects: 
 
-# HUGDAY 2023
+## HUGDAY 2023
 
 A revival year of Hug Day, an international hugging event! 
 *(It was difficult to hug while keeping 2m distance)*
 
 ### Challanges to overcome: 
-This is my final thesis and how I earned my DIS. title. I had to design this entire visual style, digital marketing and create strategy. I had to create ideas, think and plan the future of the event and how to make things work. I helped with the organizing and dealing with volunteers as well as write my final theses and make the event happen. One of the problems to overcome was to fight off the effects of Covid. 
+This is my final thesis and how I earned my DIS. title. I had to design an entire visual style, digital marketing and create strategy. I had to create ideas, think and plan the future of the event and how to make things work. The challanging part was helping with the organizing and dealing with volunteers as well as write my final theses and make the event happen. One of the problems to overcome was to fight off the effects of Covid. 
 
 ### TAGS
 **Logo** - **Webdesign** [here](https://www.hugday.sk) - **Visual identity** - **Branding** - **Marketing** - **Organizing** - **Cooperation**
@@ -67,7 +67,7 @@ This is my final thesis and how I earned my DIS. title. I had to design this ent
 
 --- 
 
-# Špindleruv Mlýn
+## Špindleruv Mlýn
 
 Visual identity connected to the people.
 *(My personal PTSD project)*
@@ -83,7 +83,7 @@ For this project, me and my team had to create a visual identity for a small yet
 
 --- 
 
-# Kutná Hora
+## Kutná Hora
 
 Design that makes the entire place resonate with music. 
 *(Too good for the client, just good enough for 2nd place)*
@@ -99,7 +99,7 @@ I was trying to visualize music festival with great history. The Kutná Hore Mus
 
 --- 
 
-# UN1VERS0
+## UN1VERS0
 
 Products and goods that are shared in real and virtual meta-universe
 *(I made this 1 week before deadline in about 6 hours and somehow it ended up as my crowning project of 2nd year in school)*
@@ -115,7 +115,7 @@ For this project, the task was to imagine a fashion brand of the future, therefo
 
 --- 
 
-# Ministry of Justice
+## Ministry of Justice
 
 Just, the right logo for the most just part of the government.
 *(The competition was cancelled, but I am confident I had it!)*
@@ -128,3 +128,8 @@ For this project, I tried to overdeliver on the logo. Not only to create a symbo
 
 ![Artboard1_13](https://github.com/Stolgeth/english-for-designers/assets/133216768/779f6347-7bb4-462b-a4a5-0c64abde0e37)
 ![Artboard1_12](https://github.com/Stolgeth/english-for-designers/assets/133216768/93977f02-22f4-4fda-b998-587dca9b32db)
+
+
+### If you got this far, my projects probably interested you. So, maybe you want to get in contact with me over here: 
+[LinkedIn](https://www.linkedin.com/in/trlicek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[Instagram](https://instagram.com/tomas.trl?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
