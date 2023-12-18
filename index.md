@@ -1,9 +1,4 @@
-Home:
-About:
-Work:
-Writing:
-
-- [**Una Kravets**](./)
+- [**Tomáš Trlíček**](./)
     - [Work]([work/index.md](https://stolgeth.github.io/english-for-designers/work.html))
     - [Writing]([writing/index.md](https://stolgeth.github.io/english-for-designers/Writing.html))
     - [About]([about.md](https://stolgeth.github.io/english-for-designers/about_me.html))
