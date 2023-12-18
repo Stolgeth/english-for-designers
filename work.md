@@ -28,6 +28,7 @@ This is my final thesis and how I earned my DIS. title. I had to design an entir
 ![Page 12](https://github.com/Stolgeth/english-for-designers/assets/133216768/ab6adee4-123f-4df8-a3e9-50e8ac731ba9)
 ![Page 17](https://github.com/Stolgeth/english-for-designers/assets/133216768/04176c3e-3f12-47e9-b93e-4ca6caaa228a)
 
+[GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
 --- 
 
 ## Špindleruv Mlýn
@@ -44,6 +45,7 @@ For this project, me and my team had to create a visual identity for a small yet
 ![Artboard1_7](https://github.com/Stolgeth/english-for-designers/assets/133216768/0b144737-2c9e-4702-b7c5-e8d8917bc9d8)
 ![Artboard1_6](https://github.com/Stolgeth/english-for-designers/assets/133216768/12098542-53f9-485b-9458-4690894ed530)
 
+[GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
 --- 
 
 ## Kutná Hora
@@ -60,6 +62,7 @@ I was trying to visualize music festival with great history. The Kutná Hore Mus
 ![Artboard1_8](https://github.com/Stolgeth/english-for-designers/assets/133216768/f3d83dbf-6cd0-4b4a-b5fa-9d3023797eb0)
 ![Artboard1_9](https://github.com/Stolgeth/english-for-designers/assets/133216768/bf2b07db-267b-40d7-8c56-31079f2ab8ba)
 
+[GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
 --- 
 
 ## UN1VERS0
@@ -76,6 +79,7 @@ For this project, the task was to imagine a fashion brand of the future, therefo
 ![Artboard1_10](https://github.com/Stolgeth/english-for-designers/assets/133216768/cc3a84be-dcdc-4fab-bfda-58005848342d)
 ![Artboard1_11](https://github.com/Stolgeth/english-for-designers/assets/133216768/f25d9fa6-237b-4b29-b386-3f48d14ddfd3)
 
+[GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
 --- 
 
 ## Ministry of Justice
@@ -95,3 +99,5 @@ For this project, I tried to overdeliver on the logo. Not only to create a symbo
 
 ### If you got this far, my projects probably interested you. So, maybe you want to get in contact with me over here: 
 [LinkedIn](https://www.linkedin.com/in/trlicek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) -- [Instagram](https://instagram.com/tomas.trl?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
+
+[GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
