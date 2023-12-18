@@ -1,6 +1,7 @@
+### Return to navigation
 [BACK](https://stolgeth.github.io/english-for-designers/index.html)
 
-# My projects: 
+# My projects:
 
 - [**HUGDAY 2023**](https://stolgeth.github.io/english-for-designers/work.html#hugday-2023)
 
