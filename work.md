@@ -1,10 +1,15 @@
 # My projects: 
 
-[**HUGDAY 2023**](https://stolgeth.github.io/english-for-designers/work.html#hugday-2023)
-[**Špindleruv Mlýn**](https://stolgeth.github.io/english-for-designers/work.html#špindleruv-mlýn)
-[**Kutná Hora**](https://stolgeth.github.io/english-for-designers/work.html#kutná-hora)
-[**UN1VERS0**](https://stolgeth.github.io/english-for-designers/work.html#un1vers0)
-[**Ministry of Justice**](https://stolgeth.github.io/english-for-designers/work.html#ministry-of-justice)
+- [**HUGDAY 2023**](https://stolgeth.github.io/english-for-designers/work.html#hugday-2023)
+
+- [**Špindleruv Mlýn**](https://stolgeth.github.io/english-for-designers/work.html#špindleruv-mlýn)
+
+- [**Kutná Hora**](https://stolgeth.github.io/english-for-designers/work.html#kutná-hora)
+
+- [**UN1VERS0**](https://stolgeth.github.io/english-for-designers/work.html#un1vers0)
+
+- [**Ministry of Justice**](https://stolgeth.github.io/english-for-designers/work.html#ministry-of-justice)
+
 
 ## HUGDAY 2023
 
