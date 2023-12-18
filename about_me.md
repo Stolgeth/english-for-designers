@@ -1,7 +1,7 @@
 ### Return to navigation page
 [BACK](https://stolgeth.github.io/english-for-designers/index.html)
 
-# Content:
+### Content:
 
 - [**About me**](https://stolgeth.github.io/english-for-designers/about_me.html#about-me)
 
@@ -24,6 +24,8 @@ My experience spans several years in **designing and optimizing websites for use
 
 I adhere to the Bauhaus principle that **form follows function**, upholding that my work should not only be aesthetically pleasing and timeless but also straightforward and practical for real-world application.
 
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
+
 ---
 
 ### What usually I get paid for:
@@ -37,6 +39,10 @@ I adhere to the Bauhaus principle that **form follows function**, upholding that
 - **UX Optimization** not quite UX Research but almost there
 - **UX Copywriting and funneling** how to make people think and do what we need them to do....
 - **Business optimization** or how to get your money's worth
+
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
+
+---
 
 ### What I enjoy to spend *(my time)* on: 
 - Power building
@@ -52,12 +58,19 @@ I adhere to the Bauhaus principle that **form follows function**, upholding that
 - Worldbuilding
 - And of course, friends and family
 
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
+
+---
+
 ### My origin story: 
 When I was about 13 or 14, I began my journey. I wanted to make a cool place for my gamer friends to hang out, but **we needed a profile picture** to show who we are. Later I found out those are logos. People usually pay for that, but I had no money, so **I decided to make it myself.** I had a blast and made something really cool, and that's how I started with graphic designer. I still use that picture for my Discord group to this day!
 
 My first big "job" was in 2018. I volunteered on a project called Hug Day about people from all over the world giving hugs to bring back physical contact. **It was awesome to see my work go global and to realize I could change things with my designs.**
 
 Now, I've been doing this as a job for over 7 years and playing with design stuff for 10 years. It's been an amazing ride!
+
+---
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
 
 (This is the 10 years old picture, still have the .psd file, I keep backups of everything, so your project is safe with me) 
 ![Untitled7](https://github.com/Stolgeth/english-for-designers/assets/133216768/b8baad75-08e5-40d0-b256-5c5458feb457)
