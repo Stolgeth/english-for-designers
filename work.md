@@ -29,6 +29,7 @@ This is my final thesis and how I earned my DIS. title. I had to design an entir
 ![Page 17](https://github.com/Stolgeth/english-for-designers/assets/133216768/04176c3e-3f12-47e9-b93e-4ca6caaa228a)
 
 [GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
+
 --- 
 
 ## Špindleruv Mlýn
@@ -46,6 +47,7 @@ For this project, me and my team had to create a visual identity for a small yet
 ![Artboard1_6](https://github.com/Stolgeth/english-for-designers/assets/133216768/12098542-53f9-485b-9458-4690894ed530)
 
 [GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
+
 --- 
 
 ## Kutná Hora
@@ -63,6 +65,7 @@ I was trying to visualize music festival with great history. The Kutná Hore Mus
 ![Artboard1_9](https://github.com/Stolgeth/english-for-designers/assets/133216768/bf2b07db-267b-40d7-8c56-31079f2ab8ba)
 
 [GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
+
 --- 
 
 ## UN1VERS0
@@ -80,6 +83,7 @@ For this project, the task was to imagine a fashion brand of the future, therefo
 ![Artboard1_11](https://github.com/Stolgeth/english-for-designers/assets/133216768/f25d9fa6-237b-4b29-b386-3f48d14ddfd3)
 
 [GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
+
 --- 
 
 ## Ministry of Justice
