@@ -24,7 +24,7 @@ My experience spans several years in **designing and optimizing websites for use
 
 I adhere to the Bauhaus principle that **form follows function**, upholding that my work should not only be aesthetically pleasing and timeless but also straightforward and practical for real-world application.
 
-[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
 ---
 
@@ -40,7 +40,7 @@ I adhere to the Bauhaus principle that **form follows function**, upholding that
 - **UX Copywriting and funneling** how to make people think and do what we need them to do....
 - **Business optimization** or how to get your money's worth
 
-[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
 ---
 
@@ -58,7 +58,7 @@ I adhere to the Bauhaus principle that **form follows function**, upholding that
 - Worldbuilding
 - And of course, friends and family
 
-[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
 ---
 
@@ -70,7 +70,7 @@ My first big "job" was in 2018. I volunteered on a project called Hug Day about 
 Now, I've been doing this as a job for over 7 years and playing with design stuff for 10 years. It's been an amazing ride!
 
 ---
-[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#content)
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
 (This is the 10 years old picture, still have the .psd file, I keep backups of everything, so your project is safe with me) 
 ![Untitled7](https://github.com/Stolgeth/english-for-designers/assets/133216768/b8baad75-08e5-40d0-b256-5c5458feb457)
