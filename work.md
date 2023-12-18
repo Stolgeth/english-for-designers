@@ -1,4 +1,4 @@
-### Return to navigation
+### Return to navigation page
 [BACK](https://stolgeth.github.io/english-for-designers/index.html)
 
 # My projects:
