@@ -11,6 +11,8 @@
 
 - [**My origin story**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
 
+- [**Getting to know me**](https://stolgeth.github.io/english-for-designers/about_me.html#getting-to-know-me)
+
 # Hi! I am Tomáš Trlíček your DiS.Grafik
 ### (You were born with it, I studied to get here!)
 
@@ -57,6 +59,14 @@ I adhere to the Bauhaus principle that **form follows function**, upholding that
 - Character writing and design
 - Worldbuilding
 - And of course, friends and family
+
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
+
+---
+
+## Getting to know me
+
+What it is like to know me. I am a workoholic. I work, workout and create stuff almost all the time. I am determined on self improvement. And kinda obsessed with it. I spend most of my time working, learning and obsessing. And on the rare occasion when downtime comes about, or I get terminally ill (flu), you'll find me indulging in gaming, movies marathon, relishing episodes of Top Gear, or traversing the galaxy with Star Wars.
 
 [GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
