@@ -9,9 +9,9 @@
 
 - [**What I enjoy to spend (my time) on**](https://stolgeth.github.io/english-for-designers/about_me.html#what-i-enjoy-to-spend-my-time-on)
 
-- [**My origin story**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
-
 - [**Getting to know me**](https://stolgeth.github.io/english-for-designers/about_me.html#getting-to-know-me)
+
+- [**My origin story**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
 
 # Hi! I am Tomáš Trlíček your DiS.Grafik
 ### (You were born with it, I studied to get here!)
