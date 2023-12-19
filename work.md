@@ -20,7 +20,7 @@ A revival year of Hug Day, an international hugging event!
 *(It was difficult to hug while keeping 2m distance)*
 
 ### Challanges to overcome: 
-This is my final thesis and how I earned my DIS. title. I had to design an entire visual style, digital marketing and create strategy. I had to create ideas, think and plan the future of the event and how to make things work. The challanging part was helping with the organizing and dealing with volunteers as well as write my final theses and make the event happen. One of the problems to overcome was to fight off the effects of Covid. 
+In my final thesis for my DIS title, I developed a comprehensive visual style and digital marketing strategy for a major event. Balancing the coordination of volunteers, event organization, and thesis writing posed a significant challenge, particularly in the face of Covid-19’s impacts. This project was not just about planning; it was about bringing a visionary event to life against all odds.
 
 ### TAGS
 **Logo** - **Webdesign** [here](https://www.hugday.sk) - **Visual identity** - **Branding** - **Marketing** - **Organizing** - **Cooperation**
@@ -38,7 +38,7 @@ Visual identity connected to the people.
 *(My personal PTSD project)*
 
 ### Challanges to overcome: 
-For this project, me and my team had to create a visual identity for a small yet prestigious town. It is known as the place to go skying in Czech republic. We had to reflect the style, people, traditions and history as well as the vision, future and the present of Špindl. The final visual identity and logo reflect all of this.
+In this project, my team and I were tasked with crafting a visual identity for a renowned, yet quaint town, celebrated as a premier skiing destination in the Czech Republic. Our challenge was to encapsulate the essence of Špindlerův Mlýn — affectionately known as Špindl — blending its rich traditions, vibrant community, and historical depth with its contemporary flair and future aspirations. The culmination of our efforts is a visual identity and logo that vividly embody the spirit of Špindl. (The logo isea is all me tho!) 
 
 ### TAGS
 **Logo** - **City identity** - **Navigation system** - **Necessary printed media**
@@ -56,7 +56,7 @@ Design that makes the entire place resonate with music.
 *(Too good for the client, just good enough for 2nd place)*
 
 ### Challanges to overcome: 
-I was trying to visualize music festival with great history. The Kutná Hore Musical festival is a noble and special place and I wanted to reflect that. The visual style is connected to topograpic style of a map, mixed with soundwaves, that originate from the spots where the musical performances take place.
+I envisioned a music festival steeped in rich history. The Kutná Hora Musical Festival isn't just an event; it's a unique and prestigious experience. In designing its visual style, I drew inspiration from the precise art of topographic maps, blending them seamlessly with sound waves. These waves ripple out from the very locations where the musical magic happens, creating a symphony of sight and sound that truly captures the festival's essence.
 
 ### TAGS
 **Posters** - **Concert visual design** - **Different applications**
@@ -74,7 +74,7 @@ Products and goods that are shared in real and virtual meta-universe
 *(I made this 1 week before deadline in about 6 hours and somehow it ended up as my crowning project of 2nd year in school)*
 
 ### Challanges to overcome: 
-For this project, the task was to imagine a fashion brand of the future, therefore I dreamed up a stylish art-piece that you can wear in real life and on your virtual avatar in the metaverse. This unique and personalized piece of warderobe is the unique and special expression of each and every single wearer linking the virtual and the real in one UNIVERSE. 
+For this project, we were challenged to envision a fashion brand of the future. The result is a fusion of style and technology: a chic, wearable art-piece designed for both real-life and your virtual avatar in the metaverse. This exclusive and personalized wardrobe item embodies the essence of each wearer, seamlessly blending the virtual and the real into one harmonious UNIVERSE.
 
 ### TAGS
 **Clothing branding** - **Naming** - **NFT** - **Visual identity**
@@ -92,7 +92,7 @@ Just, the right logo for the most just part of the government.
 *(The competition was cancelled, but I am confident I had it!)*
 
 ### Challanges to overcome:
-For this project, I tried to overdeliver on the logo. Not only to create a symbol perfect for Czech Republic's Justice department. I wanted to add an element that could be used across all the parts of Czech government. Turns out most difficult part was creating and stylizing a lion. 
+For this project, I aimed to exceed expectations with the logo design, crafting a symbol that not only epitomizes the essence of the Czech Republic's Justice Department but also introduces an element versatile enough for use throughout the entire Czech government. The most challenging aspect? Masterfully creating and stylizing a lion that embodies our vision.
 
 ### TAGS
 **Logo design** - **Visual presentations**
@@ -102,6 +102,6 @@ For this project, I tried to overdeliver on the logo. Not only to create a symbo
 
 
 ### If you got this far, my projects probably interested you. So, maybe you want to get in contact with me over here: 
-[LinkedIn](https://www.linkedin.com/in/trlicek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) -- [Instagram](https://instagram.com/tomas.trl?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
+For professional updates: [LinkedIn](https://www.linkedin.com/in/trlicek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) -- For personal updates: [Instagram](https://instagram.com/tomas.trl?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
 
 [GO UP](https://stolgeth.github.io/english-for-designers/work.html#return-to-navigation-page)
