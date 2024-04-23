@@ -3,7 +3,7 @@
     - [Work](https://stolgeth.github.io/english-for-designers/work.html)
     - [Writing](https://stolgeth.github.io/english-for-designers/Writing.html)
     - [Tone of voice](https://stolgeth.github.io/english-for-designers/04-Tone-of-voice%20/writing.html)
-    - [Storytelling](https://stolgeth.github.io/english-for-designers/05-ted-talk%20/writing.html)
+    - [Storytelling](https://stolgeth.github.io/english-for-designers/05-ted-talk%20/storytelling.html)
     - [Thesis work](https://stolgeth.github.io/english-for-designers/06-final-thesis%20/writing.html)
 
 ## Hi! I am Tomáš Trlíček your DiS.Grafik
