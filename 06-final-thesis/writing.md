@@ -1,4 +1,4 @@
-[back](https://stolgeth.github.io/english-for-designers/)
+[BACK](https://stolgeth.github.io/english-for-designers/)
 
 Hey there! I am here again with a quick rundown of my "bakalářská práce". In the theoretical part, I dove deep into the nitty-gritty of digital product design, marketing, and branding. It's like a treasure trove of knowledge that laid the foundation for the practical magic that followed.
 
