@@ -1,4 +1,4 @@
-[back](https://stolgeth.github.io/english-for-designers/03-content-first/Index.html)
+[back](https://stolgeth.github.io/english-for-designers/)
 
 # Hi! I am Tomáš Trlíček your DiS.Grafik
 ### (You were born with it, I studied to get here!)
