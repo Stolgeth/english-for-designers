@@ -1,4 +1,4 @@
-[back](https://stolgeth.github.io/english-for-designers/03-content-first/Index.html)
+[back](https://stolgeth.github.io/english-for-designers/)
 
 ## HOMEWORK
 
