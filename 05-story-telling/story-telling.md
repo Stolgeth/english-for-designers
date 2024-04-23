@@ -1,6 +1,6 @@
 [back](https://stolgeth.github.io/english-for-designers/)
 
-#Storytelling
+#Story-telling
 
 Today I want to talk about something that's been on my mind lately: how do we not just survive, but thrive in this crazy, fast-paced world we live in? I mean, let's be real, it's like we're on a rollercoaster that never stops, with AI and technology changing the game every day. But amidst all this chaos, how do we hold onto what makes us human? How do we build trust, create meaningful connections, and keep growing and evolving?
 
