@@ -6,7 +6,8 @@
 - [Revision](revision.md) 
 - [Final version](final.md)
 
-## Final version
+by Tomáš Trlíček
+24 October 2023
 
 # Homework: A Tug-of-War of Feelings
 
