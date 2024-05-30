@@ -2,6 +2,13 @@
 
 Hey there! I am here again with a quick rundown of my "bakalářská práce". In the theoretical part, I dove deep into the nitty-gritty of digital product design, marketing, and branding. It's like a treasure trove of knowledge that laid the foundation for the practical magic that followed.
 
+<video width="600" controls>
+  <source src="https://stolgeth.github.io/english-for-designers/06-final-thesis/t-trlicek-thesis-github.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+![https://stolgeth.github.io/english-for-designers/06-final-thesis/t-trlicek-thesis-github.mp4]
+
 ### Now, let's take a quick tour of the practical part:
 
 ## Project and Product Overview
