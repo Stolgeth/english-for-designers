@@ -7,7 +7,7 @@ Hey there! I am here again with a quick rundown of my "bakalářská práce". In
   Your browser does not support the video tag.
 </video>
 
-https://stolgeth.github.io/english-for-designers/06-final-thesis/t-trlicek-thesis-github.mp4
+[![TEST](https://stolgeth.github.io/english-for-designers/06-final-thesis/t-trlicek-thesis-github.mp4)]
 
 ### Now, let's take a quick tour of the practical part:
 
