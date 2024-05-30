@@ -2,6 +2,8 @@
 
 # Storytelling
 
+[Have a listen](05-story-telling/ENG_Podcast.MP3)
+
 Today I want to talk about something that's been on my mind lately: how do we not just survive, but thrive in this crazy, fast-paced world we live in? I mean, let's be real, it's like we're on a rollercoaster that never stops, with AI and technology changing the game every day. But amidst all this chaos, how do we hold onto what makes us human? How do we build trust, create meaningful connections, and keep growing and evolving?
 
 Well, let me tell you, it all starts with trust. And how do we build trust? By making real, genuine connections with people. It's not about adding friends on Facebook or getting more clients (although that's nice too). It's about getting out there, meeting people, and actually giving a damn about their lives. It's about showing up, not because you want something, but because you value them as human beings. That's what creates trust, and that's what enriches our lives.
